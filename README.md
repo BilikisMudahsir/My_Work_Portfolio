@@ -20,5 +20,5 @@ Beyond analytics, I serve as an Accountability Manager at Analytica Haven and th
   ----
 
   #### Resume
-  -[Download my CV] ( )
+  -[Download my CV] (https://docs.google.com/document/d/1Vj1cP64gPCW_CiQFMQbtXpog1HRDdK--/edit?usp=drive_link&ouid=101976924286470890141&rtpof=true&sd=true)
   
