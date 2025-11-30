@@ -15,7 +15,7 @@ Beyond analytics, I serve as an Accountability Manager at Analytica Haven and th
 - [ Coffee Shop Slae Analysis] (https://docs.google.com/spreadsheets/d/1ucNK33OMuXDYjsQ4KwuClWsrYVUNUj7T/edit?usp=drive_link&ouid=101976924286470890141&rtpof=true&sd=true)
 
 -[ Customer Bank Churn Analysis] ( )
-- [ Employee Attrition HR Analysis] ( )
+- [ Employee Attrition HR Analysis] (https://docs.google.com/spreadsheets/d/1rKmJze1vyFYIJ4mdIlvr4poe1bR7aQmB/edit?usp=drive_link&ouid=101976924286470890141&rtpof=true&sd=true)
 - {Student Performance Analysis] ( )
 
   ----
